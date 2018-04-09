@@ -1,0 +1,8 @@
+br\com\marquei\cobranca\ServletInitializer.class
+br\com\marquei\cobranca\service\CadastroTituloService.class
+br\com\marquei\cobranca\CobrancaApplication.class
+br\com\marquei\cobranca\controller\TituloController.class
+br\com\marquei\cobranca\repository\filter\TituloFilter.class
+br\com\marquei\cobranca\model\Titulo.class
+br\com\marquei\cobranca\repository\Titulos.class
+br\com\marquei\cobranca\dominio\EnumStatusTitulo.class
